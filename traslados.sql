@@ -1,3 +1,4 @@
+-- ("localhost", "vnrnp", "#HDelite9099", "rnphi")
 -- 1) build the outfile path with today’s date (YYYY-MM-DD)
 SET @out_path = CONCAT(
   'C:/Users/opc/Desktop/repor/reporte_solicitudes_entrega_',
